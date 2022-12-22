@@ -1,1 +1,1 @@
-https://github.com/AlexandraBartel/rsschool-cv/blob/rsschool-cv-html/index.html
+https://AlexandraBartel.github.io/rsschool-cv/
